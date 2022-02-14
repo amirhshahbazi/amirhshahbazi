@@ -9,6 +9,6 @@ I'm a happy frontend developer from Iran with an annoying obsession to design st
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://shahbaziamir.medium.com/)
 [![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/shahbaziamir)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhshahbazi&hide=contribs,issues&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhshahbazi&hide=contribs,issues)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
